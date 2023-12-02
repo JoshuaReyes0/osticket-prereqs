@@ -20,6 +20,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
+<h2>Prerequisites </h2>
+
+  - osTicket Installation Files: https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+
+
 <h2>Installation Steps</h2>
 
 <p>
