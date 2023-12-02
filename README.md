@@ -83,7 +83,98 @@ Install PHP and Rewrite Module:
 <p>
 Install MySQL:
   
-  - Install MySQL 5.5.62 with typical setup.
-  - Launch Configuration Wizard, configure MySQL with Standard settings and set the password to "Password1."
+  - Install MySQL 5.5.62 with a typical setup.
+  - Launch Configuration Wizard, configure MySQL with Standard settings, and set the password to "Password1."
+</p>
+<br />
+
+<img src="https://i.imgur.com/6WUbRj8.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/BScLtim.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/VcJZT9V.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/l7LSI7A.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/rrZCS9o.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/r3FUELP.png" height="20%" width="20%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/jhqF59b.png" height="60%" width="=60%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+
+Configure IIS for PHP and Install osTicket:
+
+  - Open IIS as an Admin.
+  - Register PHP in IIS.
+  - Reload IIS.
+  - Install osTicket v1.15.8.
+  - Extract "upload" folder to c:\inetpub\wwwroot.
+  - Rename "upload" to "osTicket."
+
+</p>
+<br />
+
+<img src="https://i.imgur.com/Js4ZDJ4.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/595PqgW.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+  
+  - In IIS go to "Browse *.80 (http)".
+  - Now you are in the osTicket webpage server.
+
+
+<img src="https://i.imgur.com/T8CmVVQ.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/BScLtim.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/XaQjsUY.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/UEF0rBf.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+
+  Enable PHP Extensions:
+  
+  - Open IIS (Default -> osTicket-> Double-click PHP Manager).
+  - Click on “Enable or disable an extension”.
+  - Enable php_imap.dll, php_intl.dll, php_opcache.dll.
+
+</p>
+<br />
+
+<img src="https://i.imgur.com/o2f64JX.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+
+  - Now continue with the osTicket webpage set up.
+
+
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/sKGpBuB.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/ZHFQEHo.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/ZYFWA9r.png" height="20%" width="20%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/rQtk5ic.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>  <img src="https://i.imgur.com/eXYpOEV.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/0rTihc4.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/YvKABoN.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/qUNNljQ.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/uDGQh7c.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/iNrSvMo.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure osTicket:
+  
+  - Rename ost-sampleconfig.php to ost-config.php.
+  - Set permissions for ost-config.php (Disable inheritance -> Remove All -> New Permissions -> Everyone -> All).
+  - Set up osTicket in the browser (Name Helpdesk, Create an Email).
+
+
+</p>
+<br />
+
+<img src="https://i.imgur.com/X08j6mY.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/EQX7OuE.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/IujOumX.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/TdN2U2Z.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/lpHa7WN.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+
+Install and Configure HeidiSQL:
+
+  - Install HeidiSQL.
+  - Open Heidi SQL, create a new session (root/Password1), and connect.
+  - Create a database called "osTicket."
+
+
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/cGKzyko.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/tsjZmlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+
+Complete osTicket Setup:
+
+  - Return to osTicket and finish the setup.
+  - MySQL Database: osTicket, MySQL Username: root, MySQL Password: Password1.
+  - Click "Install Now!"
+
+Verify Installation:
+
+  - Browse to your help desk login page: http://localhost/osTicket/scp/login.php.
 </p>
 <br />
