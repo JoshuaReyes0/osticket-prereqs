@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/1GWpZIQ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/2MnoIgB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/hOwksO2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create a Virtual Machine on Azure:
@@ -39,8 +39,8 @@ Create a Virtual Machine on Azure:
 <br />
 
 <p>
-<img src="https://i.imgur.com/UkSi34R.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/jUYkSx3.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/214KlhN.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/tyncXHS.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>   
+<img src="https://i.imgur.com/AEbOzPy.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/V7Ol72s.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/g3ytOjB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Virtual Machine:
@@ -54,8 +54,8 @@ Configure Virtual Machine:
 <br />
 
 <p>
-<img src="https://i.imgur.com/TZ1a2hG.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/TaZDQdk.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/6ujviyy.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/pU8BSMI.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>  <img src="https://i.imgur.com/GwkZC9P.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/v6vYXMB.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/DVz6mI8.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/grFwrLi.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DX7kk4e.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/RiE7dwk.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/t6KqsXY.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/b7oAEwh.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 Access VM and Configure IIS:
