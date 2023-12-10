@@ -69,8 +69,8 @@ Access VM and Configure IIS:
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/WnPUZqn.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/3sbRNlN.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/UIymXXo.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/niHkKbN.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/v9rFq9j.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>   
+<img src="https://i.imgur.com/YqgEpRx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/ynCrRTx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fcmavfW.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/Isu6HfT.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/OMniPbj.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>   
 </p>
 <p>
 Install PHP and Rewrite Module:
@@ -83,8 +83,7 @@ Install PHP and Rewrite Module:
 </p>
 <br />
 
-<img src="https://i.imgur.com/utvmACz.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/8I9QtVP.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/3zUPjjh.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/zlsXDh6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>  
-</p>
+<img src="https://i.imgur.com/HvX8usI.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
 <p>
 Install MySQL:
   
@@ -93,7 +92,7 @@ Install MySQL:
 </p>
 <br />
 
-<img src="https://i.imgur.com/6WUbRj8.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/BScLtim.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/VcJZT9V.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/l7LSI7A.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/rrZCS9o.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/r3FUELP.png" height="20%" width="20%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/jhqF59b.png" height="60%" width="=60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/6OQdRc1.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/BLlY1tm.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/1Qoc0PX.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 
@@ -109,7 +108,7 @@ Configure IIS for PHP and Install osTicket:
 </p>
 <br />
 
-<img src="https://i.imgur.com/Js4ZDJ4.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/595PqgW.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/LgmTFiR.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/PIdKHTx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
   
@@ -117,7 +116,7 @@ Configure IIS for PHP and Install osTicket:
   - Now you are in the osTicket webpage server.
 
 
-<img src="https://i.imgur.com/T8CmVVQ.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/BScLtim.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/XaQjsUY.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/UEF0rBf.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/D255IVZ.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/9XebXHG.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 
@@ -129,19 +128,8 @@ Configure IIS for PHP and Install osTicket:
 
 </p>
 <br />
-
-<img src="https://i.imgur.com/o2f64JX.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
-</p>
 <p>
-
-  - Now continue with the osTicket webpage set up.
-
-
-</p>
-<br />
-<p>
-<img src="https://i.imgur.com/sKGpBuB.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/ZHFQEHo.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/ZYFWA9r.png" height="20%" width="20%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/rQtk5ic.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>  <img src="https://i.imgur.com/eXYpOEV.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/0rTihc4.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/YvKABoN.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/qUNNljQ.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/uDGQh7c.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/iNrSvMo.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HmPsy8t.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/tvlXxk7.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 Configure osTicket:
@@ -154,8 +142,7 @@ Configure osTicket:
 </p>
 <br />
 
-<img src="https://i.imgur.com/X08j6mY.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/EQX7OuE.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/IujOumX.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/TdN2U2Z.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/lpHa7WN.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
-</p>
+<img src="https://i.imgur.com/F7bcBiQ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/ei2zulN.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> 
 <p>
 
 Install and Configure HeidiSQL:
